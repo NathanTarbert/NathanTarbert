@@ -2,7 +2,7 @@
 
 # Nathan Tarbert
 
-## I'm **Nathan Tarbert from Liberty Lake Wa** .and my main passion, besides family, is Computer Development.
+### I'm Nathan Tarbert from Liberty Lake Wa .and my main passion, besides family, is Computer Development.
 
 **Skills:**
 * ⚛ REACT
