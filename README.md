@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Nathan from Liberty Lake Wa.and my main passion, besides family is Computer Development. I am on the path to being a Full Stack Developer.
+
 <!--
 **NathanTarbert/NathanTarbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
