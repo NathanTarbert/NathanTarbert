@@ -2,6 +2,7 @@
 
 I'm Nathan from Liberty Lake Wa.and my main passion, besides family is Computer Development. I am on the path to being a Full Stack Developer.
 
+[![NathanTarbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathantarbert)](https://github.com/nathantarbert/github-readme-stats)
 <!--
 **NathanTarbert/NathanTarbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
