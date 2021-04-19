@@ -15,9 +15,7 @@
 - 📫 reach me @: nate4t@hotmail.com / https://www.linkedin.com/in/nathan-tarbert/
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NathanTarbert)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanTarbert)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NathanTarbert) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanTarbert&show_icons=true)  
 
