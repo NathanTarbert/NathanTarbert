@@ -15,13 +15,6 @@
 - 📫 reach me @: nate4t@hotmail.com / https://www.linkedin.com/in/nathan-tarbert/
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NathanTarbert)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NathanTarbert)  
-
-![GitHub metrics](https://metrics.lecoq.io/NathanTarbert)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NathanTarbert)  
 
 
 
