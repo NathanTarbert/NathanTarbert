@@ -6,9 +6,9 @@
 **Skills:**
 * ⚛ REACT
 * 📱 REACT NATIVE
-* 💻 JS / HTML / CSS*
+* 💻 JS / Python/ HTML / CSS*
 
-#### Full Stack/ Blockchain Developer in training...
+#### Full Stack/ Blockchain Developer
 
 - 🔭 I am currently enrolled in the Blockchain portion Kingsland University course. 
 - 👯 I’m looking to collaborate on a crypto currency protocol I am passionate about. 
