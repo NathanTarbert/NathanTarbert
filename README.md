@@ -5,7 +5,7 @@
 **Skills:**
 * ⚛ REACT
 * 📱 REACT NATIVE
-* 💻 JS / NextJS / Python/ HTML / CSS* / C#
+* 💻 JS / NextJS / Python / HTML / CSS* / C#
 
 #### Full Stack/ Blockchain Developer
 
