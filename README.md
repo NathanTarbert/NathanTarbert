@@ -7,7 +7,7 @@ My passion is anything crypto, blockchain, game development.
 **Skills:**
 * ⚛ REACT
 * 📱 REACT NATIVE
-* 💻 JS / NextJS / Python / HTML / CSS* / C# / Firebase / Mongo DB
+* 💻 JS / Node / NextJS / Python / HTML / CSS* / C# / Firebase / Mongo DB
 
 #### Full Stack/ Blockchain Developer
 
