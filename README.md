@@ -2,7 +2,8 @@
 # Nathan Tarbert
 
 ### I'm Nathan Tarbert from Liberty Lake Wa. 
-My passion is anything crypto, blockchain, game development.
+I am a certified Full Stack Engineer. My passion is anything program related, whether building apps, social media projects
+or just researching crypto, blockchain, game development.
 
 **Skills:**
 * ⚛ REACT
