@@ -1,7 +1,7 @@
 
 ### Hi, I'm Nathan Tarbert. 
-I am a certified Full Stack Engineer. My passion is web3 programming with a little spice of React or Next.js
-for the front-end.
+I am a certified Full Stack Engineer. My passion is web3 programming with a little spice of React or Next.js for the front-end.
+
 **Skills:**
 * ⚛ REACT
 * 📱 REACT NATIVE
