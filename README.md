@@ -11,7 +11,10 @@ I am a certified Full Stack Engineer. My passion is web3 programming with a litt
 
 - 🔭 I am currently enrolled in the Kingsland University Blockchain Certification Course. 
 - 👯 I’m looking to collaborate on a crypto currency or a gaming protocol in the blockchain space. 
-- 📫 reach me @: nathan@gzerodev.com / https://www.gzerodev.com / https://www.linkedin.com/in/nathan-tarbert/
+- 📫 reach me @:
+- email- nathan@gzerodev.com /
+- website https://www.gzerodev.com /
+- profile https://www.linkedin.com/in/nathan-tarbert/
 
 
 
