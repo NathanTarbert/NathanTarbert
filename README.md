@@ -5,7 +5,7 @@ I am a certified Full Stack Engineer. My passion is web3 programming with a litt
 **Skills:**
 * ⚛ REACT
 * 📱 REACT NATIVE
-* 💻 JS / Node / Express / NextJS / Python / HTML / CSS* / C# / Firebase / Mongo DB / Truffle
+* 💻 JavaScript / Node / Express / NextJS / Python / HTML / CSS* / C# / Firebase / Mongo DB / Truffle
 
 #### Full Stack / Blockchain Developer
 
