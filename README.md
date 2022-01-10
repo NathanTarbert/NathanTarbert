@@ -11,7 +11,7 @@ I am a certified Full Stack Engineer. My passion is web3 programming with a litt
 #### Full Stack / Blockchain Developer
 
 ### Work:
-- ✨ I am an intern at Wumbo Token as a Blockchain engineer. 
+- ✨ I am currently an intern at Wumbo Token as a Blockchain / React engineer. 
 
 ### Education
 - 🔭 I am currently enrolled in the Kingsland University Blockchain Certification Course. 
