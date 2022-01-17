@@ -10,7 +10,7 @@ I am a certified Full Stack Engineer. My passion is web3 programming with a litt
 
 #### Full Stack / Blockchain Developer
 
-#### Project Video: https://showcase.ethglobal.com/nfthack2022/anala-art
+#### Mobile Project Video: https://showcase.ethglobal.com/nfthack2022/anala-art
 
 ### Work:
 - ✨ I am currently an intern at Wumbo Token as a Blockchain / React engineer. 
