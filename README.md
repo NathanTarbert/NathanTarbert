@@ -8,7 +8,8 @@ I am a certified Full Stack Engineer. My passion is web3 programming with a litt
 * 📱  REACT-NATIVE / IONIC
 * 💻 Node / Express / HTML / CSS / TailwindCSS / Firebase / MongoDB / Truffle / Ganache / Hardhat / Geth /
 
-#### Mobile Project Video: ETH-Global NFT Hackathon https://showcase.ethglobal.com/nfthack2022/anala-art
+#### Projects:
+Mobile Project Video: ETH-Global NFT Hackathon https://showcase.ethglobal.com/nfthack2022/anala-art
 
 ### Work:
 - ✨ I am currently an intern at Wumbo Token as a Blockchain / React engineer. 
