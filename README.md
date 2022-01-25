@@ -11,18 +11,18 @@ I am a certified Full Stack Engineer. My passion is web3 programming with a litt
 #### Projects:
 Mobile Project Video: ETH-Global NFT Hackathon https://showcase.ethglobal.com/nfthack2022/anala-art
 
-### Work:
+#### Work:
 - ✨ I am currently an intern at Wumbo Token as a Blockchain / React engineer. 
 
-### Education
+### E#ducation
 - 🔭 I am currently enrolled in the Kingsland University Blockchain Certification Course. 
 
-### Goals
+#### Goals
 - 👯 My goal is to make a difference in the world of Web3. 
 - What that could look like? Collaberating on an educational project designed to help beginners onboard into
 - the crypto / blockchain space with as little effort as possible. 
 - 
-### 📫 reach me @:
+#### 📫 reach me @:
 - email- nathan@gzerodev.com 
 - website https://www.gzerodev.com 
 - profile https://www.linkedin.com/in/nathan-tarbert/
