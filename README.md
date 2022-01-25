@@ -1,5 +1,5 @@
 
-### Hi, I'm Nathan Tarbert. 
+#### Hi, I'm Nathan Tarbert. 
 I am a certified Full Stack Engineer. My passion is web3 programming with a little spice of React or Next.js for the front-end.
 
 **Skills:**
@@ -7,8 +7,6 @@ I am a certified Full Stack Engineer. My passion is web3 programming with a litt
 * ⚛  REACT, NEXT.js
 * 📱  REACT-NATIVE / IONIC
 * 💻 Node / Express / HTML / CSS / TailwindCSS / Firebase / MongoDB / Truffle / Ganache / Hardhat / Geth /
-
-#### Full Stack / Blockchain Developer
 
 #### Mobile Project Video: ETH-Global NFT Hackathon https://showcase.ethglobal.com/nfthack2022/anala-art
 
