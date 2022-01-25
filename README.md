@@ -14,7 +14,7 @@ Mobile Project Video: ETH-Global NFT Hackathon https://showcase.ethglobal.com/nf
 #### Work:
 - ✨ I am currently an intern at Wumbo Token as a Blockchain / React engineer. 
 
-### E#ducation
+#### Education
 - 🔭 I am currently enrolled in the Kingsland University Blockchain Certification Course. 
 
 #### Goals
