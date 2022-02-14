@@ -12,7 +12,7 @@ I am a certified Full Stack Engineer. My passion is Web3 programming with a litt
    📱Mobile Project Video: 3 Day ETH-Global NFT Hackathon https://showcase.ethglobal.com/nfthack2022/anala-art
 
 #### Work:
-- ✨ I am currently an intern at Wumbo Token as a Blockchain / React engineer. 
+- ✨ I am currently working at JL-Tech as a Software Engineer. 
 
 #### Education:
 - 🔭 I am currently enrolled in the Kingsland University Blockchain Certification Course. 
