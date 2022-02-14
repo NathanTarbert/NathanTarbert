@@ -9,7 +9,8 @@ I am a certified Full Stack Engineer. My passion is Web3 programming with a litt
 * 💻 Node / Express / HTML / CSS / TailwindCSS / Firebase / MongoDB / Truffle / Ganache / Hardhat / Geth /
 
 #### Projects:
-   📱Mobile Project Video: 3 Day ETH-Global NFT Hackathon https://showcase.ethglobal.com/nfthack2022/anala-art
+   🖥️ Road to Web3 Project: 3 Day ETH-Global Hackathon: https://showcase.ethglobal.com/roadtoweb3/allocate
+   📱  Mobile NFT Project : 3 Day ETH-Global Hackathon: https://showcase.ethglobal.com/nfthack2022/anala-art
 
 #### Work:
 - ✨ I am currently working at JL-Tech as a Software Engineer. 
