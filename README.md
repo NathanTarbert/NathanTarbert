@@ -20,7 +20,7 @@ I am a certified Full Stack Engineer. My passion is Web3 programming with a litt
 
 #### Goals:
 - 👯 My goal is to make a difference in the world of Web3. </br> 
-#### What that could look like?
+#### What could that look like?
 -   Collaberating on an educational project designed to help beginners onboard into
 the crypto / blockchain </br> space with as little effort as possible. 
  
