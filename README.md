@@ -10,7 +10,7 @@ I am a certified Full Stack Engineer. My passion is Web3 programming with a litt
 
 #### Projects:
   ▶️  🖥️ Road to Web3 Project: 3 Day ETH-Global Hackathon: https://showcase.ethglobal.com/roadtoweb3/allocate </br>
-  Defi Kids(Allocate) website: https://defikids.io </br>
+  Defi Kids website: https://defikids.io </br>
   ▶️  📱  Mobile NFT Project : 3 Day ETH-Global Hackathon: https://showcase.ethglobal.com/nfthack2022/anala-art
 
 #### Work:
