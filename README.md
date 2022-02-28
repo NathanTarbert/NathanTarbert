@@ -9,9 +9,9 @@ I am a certified Full Stack Engineer. My passion is Web3 programming with a litt
 * 💻 Node / Express / HTML / CSS / TailwindCSS / Firebase / MongoDB / MySQL / Docker / Truffle / Ganache / Hardhat / Geth /
 
 #### Projects:
-  ▶️  🖥️ Road to Web3 Project: 3 Day ETH-Global Hackathon: https://showcase.ethglobal.com/roadtoweb3/allocate </br>
-  Defi Kids website: https://defikids.io </br>
-  ▶️  📱  Mobile NFT Project : 3 Day ETH-Global Hackathon: https://showcase.ethglobal.com/nfthack2022/anala-art
+  ▶️  🖥️ <a href="https://showcase.ethglobal.com/roadtoweb3/allocate">Road to Web3 Project: 3 Day ETH-Global Hackathon</a> Check out the app: https://defikids.io </br>
+  
+  ▶️  📱 <a href="https://showcase.ethglobal.com/nfthack2022/anala-art"> Mobile NFT Project : 3 Day ETH-Global Hackathon</a>
 
 #### Work:
 - ✨ I am currently working at JL-Tech as a Software Engineer. 
@@ -27,8 +27,8 @@ the crypto / blockchain </br> space with as little effort as possible.
  
 #### 📫 reach me @:
 - email- nathan@gzerodev.com 
-- website https://www.gzerodev.com 
-- profile https://www.linkedin.com/in/nathan-tarbert/
+- Website: <a href="https://www.gzerodev.com">GZeroDev</a>
+- Social <a href="https://linkedin.com/in/nathan-tarbert/">Linkedin</a> & <a href="https://twitter.com/nathan_tarbert">Twitter</a>
 
 
 
