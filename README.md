@@ -3,10 +3,10 @@
 I am a certified Full Stack Engineer. My passion is Web3 programming with a little spice of React or Next.js for the front-end.
 
 #### Skills:
-* 🕶️ JavaScript / TypeScript / Soidity / Pythobn / C#
+* 🕶️ Solidity | JavaScript | TypeScript | Pythobn | C#
 * ⚛  REACT, NEXT.js
-* 📱  REACT-NATIVE / IONIC
-* 💻 Node / Express / HTML / CSS / TailwindCSS / Firebase / MongoDB / MySQL / Docker / Truffle / Ganache / Hardhat / Geth /
+* 📱  REACT-NATIVE | IONIC
+* 💻 Node | Express | HTML | CSS | TailwindCSS | Firebase | MongoDB | MySQL | Docker | Truffle | Ganache | Hardhat | Geth
 
 #### Projects:
   ▶️  🖥️ <a href="https://showcase.ethglobal.com/roadtoweb3/allocate">Road to Web3 Project: 3 Day ETH-Global Hackathon</a> Check out the app: https://defikids.io </br>
