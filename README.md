@@ -9,7 +9,7 @@ I am a certified Full Stack Engineer. My passion is Web3 programming with a litt
 * 💻 Node | Express | HTML | CSS | TailwindCSS | Firebase | MongoDB | MySQL | Docker | Truffle | Ganache | Hardhat | Geth
 
 #### Projects:
-  ▶️  🖥️ <a href="https://showcase.ethglobal.com/roadtoweb3/allocate">Road to Web3 Project: 3 Day ETH-Global Hackathon</a> Check out the app: https://defikids.io </br>
+  ▶️  🖥️ <a href="https://showcase.ethglobal.com/roadtoweb3/allocate"> Road to Web3 Project: 3 Day ETH-Global Hackathon </a> Check it out!: <a href="https://defikids.io">defiKids app</a> </br>
   
   ▶️  📱 <a href="https://showcase.ethglobal.com/nfthack2022/anala-art"> Mobile NFT Project : 3 Day ETH-Global Hackathon</a>
 
