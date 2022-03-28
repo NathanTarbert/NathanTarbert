@@ -14,7 +14,7 @@ I am a certified <a href="https://blockchaincertificate-verify.kingsland.io/cert
   ▶️  📱 <a href="https://showcase.ethglobal.com/nfthack2022/anala-art"> Mobile NFT Project : 3 Day ETH-Global Hackathon</a>
 
 #### Work:
-- ✨ I am currently working at JL-Tech as a Software Engineer. 
+- ✨ I am currently an intern at a blockchain startup Wumbo Token. 
 
 #### Education:
 - 🔭 I am currently enrolled in the Kingsland University Blockchain Certification Course. 
