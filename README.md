@@ -14,7 +14,7 @@ I am a certified <a href="https://blockchaincertificate-verify.kingsland.io/cert
   ▶️  📱 <a href="https://showcase.ethglobal.com/nfthack2022/anala-art"> Mobile NFT Project : 3 Day ETH-Global Hackathon</a>
 
 #### Work:
-- ✨ I am currently an intern at a blockchain startup Wumbo Token. 
+- ✨ I am a co-founder of DefiKids, a collaberation project with two other developers that will bring crypto education to the next generation. 
 
 #### Education:
 - 🔭 I am currently enrolled in the Kingsland University Blockchain Certification Course. 
