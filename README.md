@@ -23,7 +23,7 @@ I am a certified <a href="https://blockchaincertificate-verify.kingsland.io/cert
 - 👯 My goal is to make a difference in the world of Web3. </br> 
 #### What could that look like?
 -   Collaberating on an educational project designed to help beginners onboard into
-the crypto / blockchain </br> space with as little effort as possible. 
+the crypto / defi </br> space with as little effort as possible. 
  
 #### 📫 reach me @:
 - email- nathan@gzerodev.com 
