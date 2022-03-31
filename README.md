@@ -17,7 +17,7 @@ I am a certified <a href="https://blockchaincertificate-verify.kingsland.io/cert
 - ✨ I am a co-founder of DefiKids, a collaberation project with two other developers that will bring crypto education to the next generation. 
 
 #### Education:
-- 🔭 I am currently enrolled in the Kingsland University Blockchain Certification Course. 
+- 🔭 Kingsland University: Full-Stack Engineer / Blockchain Certification Course. 
 
 #### Goals:
 - 👯 My goal is to make a difference in the world of Web3. </br> 
