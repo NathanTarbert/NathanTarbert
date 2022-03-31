@@ -26,7 +26,7 @@ I am a certified <a href="https://blockchaincertificate-verify.kingsland.io/cert
 the crypto / defi </br> space with as little effort as possible. 
  
 #### 📫 reach me @:
-- email- nathan@gzerodev.com 
+- contact me - nathan@gzerodev.com 
 - Website: <a href="https://www.gzerodev.com">Gzerodev.com</a>
 - Social <a href="https://linkedin.com/in/nathan-tarbert/">Linkedin</a> & <a href="https://twitter.com/nathan_tarbert">Twitter</a>
 
