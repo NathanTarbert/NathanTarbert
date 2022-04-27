@@ -1,6 +1,6 @@
 
 #### Hi, I'm Nathan Tarbert. 
-I am a certified <a href="https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148">Full Stack Engineer.</a> My passion is Web3 programming with a little spice of React or Next.js for the front-end.
+I am a certified <a href="https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148">Full Stack Engineer.</a> My passion is Web3 and security programming, with a little spice of React or Next.js for the front-end.
 
 #### Skills:
 * 🕶️ Solidity | JavaScript | TypeScript | Pythobn | C#
