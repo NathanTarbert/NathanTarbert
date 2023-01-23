@@ -19,8 +19,8 @@ I am a certified  My passion is Web3 and security programming, with a little spi
 - (Update) - this project has been put on the back-burner
 
 #### Education:
-- 🔭 Kingsland University: <a href="https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148">Full Stack Engineer</a>
-- 🔭 Kingsland University: <a href="[https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148](https://blockchaincertificate-verify.kingsland.io/certificate/62fcb6b61918c47cc68be644)">Solidity Developer</a>
+- 🔭 Kingsland University: <a href="https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148">Full Stack Developer</a>
+- 🔭 Kingsland University: <a href="https://blockchaincertificate-verify.kingsland.io/certificate/62fcb6b61918c47cc68be644">Solidity Developer</a>
 - 🔭 University of Virginia Darden School of Business: <a href="https://www.coursera.org/account/accomplishments/certificate/JGQ9ALLJ7XUS">Fundamentals of Project Planning and Management</a>
 - 🔭 Google: <a href="https://www.coursera.org/account/accomplishments/certificate/RRU4BWUKT5P6">Foundations of Project Management<a/> 
 
