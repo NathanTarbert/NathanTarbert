@@ -1,7 +1,7 @@
 
 #### Hi, I'm Nathan Tarbert. 
 
-I am a certified  My passion is Web3 and security programming, with a little spice of React or Next.js for the front-end.
+I am a developer who got into programming in early 2020 after 22 years of driving commercial vehicles but my passion was always tech. Now I live and breathe programming!
 
 #### Skills:
 * 🕶️ Solidity | JavaScript
@@ -25,7 +25,7 @@ I am a certified  My passion is Web3 and security programming, with a little spi
 - 🔭 Google: <a href="https://www.coursera.org/account/accomplishments/certificate/RRU4BWUKT5P6">Foundations of Project Management<a/> 
 
 #### Goals:
-- 👯 My goal is to make a difference in the world of Web3. </br> 
+- 👯 My goal is to make a difference in the world of Web3 and/or Security. </br> 
 #### What could that look like?
 -   Collaberating on an educational project designed to help beginners onboard into
 the crypto / defi </br> space with as little effort as possible. 
