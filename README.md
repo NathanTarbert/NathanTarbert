@@ -1,10 +1,10 @@
 
 #### Hi, I'm Nathan Tarbert. 
 
-I am a certified <a href="https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148">Full Stack Engineer.</a> My passion is Web3 and security programming, with a little spice of React or Next.js for the front-end.
+I am a certified  My passion is Web3 and security programming, with a little spice of React or Next.js for the front-end.
 
 #### Skills:
-* 🕶️ Solidity | JavaScript | TypeScript | Pythobn | C#
+* 🕶️ Solidity | JavaScript
 * ⚛  REACT, NEXT.js
 * 📱  REACT-NATIVE | IONIC
 * 💻 Node | Express | HTML | CSS | TailwindCSS | Firebase | MongoDB | MySQL | Docker | Truffle | Ganache | Hardhat | Geth
@@ -16,9 +16,13 @@ I am a certified <a href="https://blockchaincertificate-verify.kingsland.io/cert
 
 #### Work:
 - ✨ I am a co-founder of DefiKids, a collaberation project with two other developers that will bring crypto education to the next generation. 
+- (Update) - this project has been put on the back-burner
 
 #### Education:
-- 🔭 Kingsland University: Full-Stack Engineer / Blockchain Certification Course. 
+- 🔭 Kingsland University: <a href="https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148">Full Stack Engineer</a>
+- 🔭 Kingsland University: <a href="[https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148](https://blockchaincertificate-verify.kingsland.io/certificate/62fcb6b61918c47cc68be644)">Solidity Developer</a>
+- 🔭 University of Virginia Darden School of Business: <a href="https://www.coursera.org/account/accomplishments/certificate/JGQ9ALLJ7XUS">Fundamentals of Project Planning and Management</a>
+- 🔭 Google: <a href="https://www.coursera.org/account/accomplishments/certificate/RRU4BWUKT5P6">Foundations of Project Management<a/> 
 
 #### Goals:
 - 👯 My goal is to make a difference in the world of Web3. </br> 
@@ -27,9 +31,8 @@ I am a certified <a href="https://blockchaincertificate-verify.kingsland.io/cert
 the crypto / defi </br> space with as little effort as possible. 
  
 #### 📫 reach me @:
-- contact me - nathan@gzerodev.com 
-- Website: <a href="https://www.gzerodev.com">Gzerodev.com</a>
-- Social <a href="https://linkedin.com/in/nathan-tarbert/">Linkedin</a> & <a href="https://twitter.com/nathan_tarbert">Twitter</a>
+- Email - nathan@gzerodev.com 
+- Social - <a href="https://linkedin.com/in/nathan-tarbert/">Linkedin</a> & <a href="https://twitter.com/nathan_tarbert">Twitter</a>
 
 
 
