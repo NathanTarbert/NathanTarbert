@@ -1,12 +1,12 @@
 
 #### Hi, I'm Nathan Tarbert. 
 
-I am a developer who got into programming in early 2020 after 22 years of driving commercial vehicles but my passion was always tech. Now I live and breathe programming!
+I am a developer who got into programming in early 2020 after a more than two decade career in the Transportation industustry. My passion was always tech, now I live and breathe programming/development and have never looked back!
 
 #### Skills:
 * 🕶️ Solidity | JavaScript
-* ⚛  REACT, NEXT.js
-* 📱  REACT-NATIVE | IONIC
+* ⚛  React, Next.js
+* 📱 React-Native | Ionic
 * 💻 Node | Express | HTML | CSS | TailwindCSS | Firebase | MongoDB | MySQL | Docker | Truffle | Ganache | Hardhat | Geth
 
 #### Projects:
