@@ -16,8 +16,8 @@ I am a developer who got into programming in early 2020 after a more than two de
 
 #### Work:
 - ✨ Snyk - Community Success Engineer - <a href="https://github.com/NathanTarbertSnyk">My public Snyk Github</a>
-- ✨ I am a co-founder of DefiKids, a collaberation project with two other developers that will bring crypto education to the next generation. 
-- (Update) - this project has been put on the back-burner
+- ✨ I am a co-founder of <a href="defikids.io">DefiKids<a/>, a global collaberation project with two other developers that will bring crypto education to the next generation. 
+- (Update) - this project has been put on the back-burner for the time being.
 
 #### Education:
 - 🔭 Kingsland University: <a href="https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148">Full Stack Developer</a>
@@ -26,11 +26,8 @@ I am a developer who got into programming in early 2020 after a more than two de
 - 🔭 Google: <a href="https://www.coursera.org/account/accomplishments/certificate/RRU4BWUKT5P6">Foundations of Project Management<a/> 
 
 #### Goals:
-- 👯 My goal is to make a difference in the world of Web3 and/or Security. </br> 
-#### What could that look like?
--   Collaberating on an educational project designed to help beginners onboard into
-the crypto / defi </br> space with as little effort as possible. 
- 
+- 👯 To help as many people/teams/organizations as possible become successful in deployment, development or just need help getting unblocked. </br> 
+
 #### 📫 reach me @:
 - Email - nathan@gzerodev.com 
 - Social - <a href="https://linkedin.com/in/nathan-tarbert/">Linkedin</a> & <a href="https://twitter.com/nathan_tarbert">Twitter</a>
