@@ -15,6 +15,7 @@ I am a developer who got into programming in early 2020 after a more than two de
   ▶️  📱 <a href="https://showcase.ethglobal.com/nfthack2022/anala-art"> Mobile NFT Project : 3 Day ETH-Global Hackathon</a>
 
 #### Work:
+- ✨ Snyk - Community Success Engineer - <a href="https://github.com/NathanTarbertSnyk">My public Snyk Github</a>
 - ✨ I am a co-founder of DefiKids, a collaberation project with two other developers that will bring crypto education to the next generation. 
 - (Update) - this project has been put on the back-burner
 
