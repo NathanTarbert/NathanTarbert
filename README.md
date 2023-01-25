@@ -10,7 +10,7 @@ I am a developer who got into programming in early 2020 after a two decade caree
 * 💻 Node | Express | HTML | CSS | TailwindCSS | Firebase | MongoDB | MySQL | Docker | Truffle | Ganache | Hardhat | Geth
 
 #### Projects:
-  ▶️  🖥️ <a href="https://showcase.ethglobal.com/roadtoweb3/allocate"> Road to Web3 Project: 3 Day ETH-Global Hackathon </a> Here is the APP: <a href="https://defikids.io">defiKids app</a> </br>
+  ▶️  🖥️ <a href="https://showcase.ethglobal.com/roadtoweb3/allocate"> Road to Web3 Project: 3 Day ETH-Global Hackathon - </a> Check out the app: <a href="https://defikids.io"> defikids.io </a> </br>
   
   ▶️  📱 <a href="https://showcase.ethglobal.com/nfthack2022/anala-art"> Mobile NFT Project : 3 Day ETH-Global Hackathon</a>
 
