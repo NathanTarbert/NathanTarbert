@@ -16,7 +16,7 @@ I am a developer who got into programming in early 2020 after a two decade caree
 
 #### Work:
 - ✨ Snyk (SaaS) - Community Success Engineer - <a href="https://github.com/NathanTarbertSnyk">My public Snyk Github</a>
-- ✨ I am a co-founder of <a href="defikids.io">DefiKids<a/>, a global collaberation project with two other developers that will bring crypto education to      the next generation. (Update) - this project has been put on the back-burner for the time being.
+- ✨ I am a co-founder of <a href="defikids.io">DefiKids<a/>, a global collaberation project that will bring crypto education to the next generation.     <br>(Update) - this project has been put on the back-burner for the time being.</br>
 
 #### Education:
 - 🔭 Kingsland University: <a href="https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148">Full Stack Developer</a>
