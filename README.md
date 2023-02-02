@@ -1,7 +1,7 @@
 
 #### Hi, I'm Nathan Tarbert. 
 
-I am a developer who got into programming in early 2020 after a two decade career in the transportation industry. My love and empathy for people has given me a blend of communication, plus technical development, that I believe is a winning combination when it comes to onboarding teams and customers onto a particular platform.
+I am a developer who got into programming in early 2020 after a two decade career in the transportation industry. My love and empathy for people has given me a blend of communication, plus technical development, that I believe is a winning combination when it comes to onboarding teams and organizations onto a particular platform.
 
 #### Technical Skills:
 * 🕶️ Solidity | JavaScript
