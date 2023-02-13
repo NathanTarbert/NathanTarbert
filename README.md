@@ -15,8 +15,8 @@ I am a developer who got into programming in early 2020 after a two decade caree
   ▶️  📱 <a href="https://showcase.ethglobal.com/nfthack2022/anala-art"> Mobile NFT Project : 3 Day ETH-Global Hackathon</a>
 
 #### Work:
-- ✨ Snyk (SaaS) - Community Success Engineer - <a href="https://github.com/NathanTarbertSnyk">My public Snyk Github</a>
-- ✨ I am a co-founder of <a href="defikids.io">DefiKids<a/>, a global collaberation project that will bring crypto education to the next generation.     <br>(Update) - this project has been put on the back-burner for the time being.</br>
+- ✨ <a href="https://snyk.io">Snyk</a> (SaaS) - Community Success Engineer - <a href="https://github.com/NathanTarbertSnyk">My public Snyk Github</a>
+- ✨ I am a co-founder of <a href="https://defikids.io">DefiKids<a/>, a global collaberation project that will bring crypto education to the next generation.     <br>(Update) - this project has been put on the back-burner for the time being.</br>
 
 #### Education:
 - 🔭 Kingsland University: <a href="https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148">Full Stack Developer</a>
