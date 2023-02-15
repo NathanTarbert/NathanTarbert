@@ -12,7 +12,7 @@ I am a developer who got into programming in early 2020 after a two decade caree
 #### Projects:
   ▶️  🖥️ [Road to Web3 Project: 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/roadtoweb3/allocate) Check out the app: [defikids.io](https://defikids.io)  </br>
   
-  ▶️  📱 [Mobile NFT Project : 3 Day ETH-Global Hackatho](https://showcase.ethglobal.com/nfthack2022/anala-art)
+  ▶️  📱 [Mobile NFT Project : 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/nfthack2022/anala-art)
 
 #### Work:
 - ✨ [Snyk](https://snyk.io) (SaaS) - Community Success Engineer - [My public Snyk Github](https://github.com/NathanTarbertSnyk)
