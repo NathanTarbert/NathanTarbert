@@ -15,6 +15,7 @@ I am a developer who got into programming in early 2020 after a two decade caree
   ▶️  📱 [Mobile NFT Project : 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/nfthack2022/anala-art)
 
 #### Work:
+- ✨ [BoxyHQ](https://hoxyhq.com) - Community Success Engineer
 - ✨ [Snyk](https://snyk.io) (SaaS) - Community Success Engineer - [My public Snyk Github](https://github.com/NathanTarbertSnyk)
 - ✨ I am a co-founder of <a href="https://defikids.io">DefiKids<a/>, a global collaberation project that will bring crypto education to the next generation.     <br>(Update) - this project has been put on the back-burner for the time being.</br>
 
