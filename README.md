@@ -10,14 +10,14 @@ I am a developer who got into programming in early 2020 after a two decade caree
 * 💻 Node | Express | HTML | CSS | TailwindCSS | Firebase | MongoDB | MySQL | Docker | Truffle | Ganache | Hardhat | Geth
 
 #### Projects:
-  ▶️  🖥️ [Road to Web3 Project: 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/roadtoweb3/allocate) Check out the app: [defikids.io](https://defikids.io)  </br>
+  ▶️  🖥️ [Road to Web3 Project: 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/roadtoweb3/allocate) Check out the app: [DefiKids](https://vercel.com/nathantarbert/defikids)  </br>
   
   ▶️  📱 [Mobile NFT Project : 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/nfthack2022/anala-art)
 
 #### Work:
 - ✨ [BoxyHQ](https://hoxyhq.com) - Community Success Engineer
 - ✨ [Snyk](https://snyk.io) (SaaS) - Community Success Engineer - [My public Snyk Github](https://github.com/NathanTarbertSnyk)
-- ✨ I am a co-founder of <a href="https://defikids.io">DefiKids<a/>, a global collaberation project that will bring crypto education to the next generation.     <br>(Update) - this project has been put on the back-burner for the time being.</br>
+- ✨ I am a co-founder of <a href="https://vercel.com/nathantarbert/defikids">DefiKids<a/>, a global collaberation project that will bring crypto education to the next generation.     <br>(Update) - this project has been put on the back-burner for the time being.</br>
 
 #### Education:
 - 🔭 Kingsland University: [Full Stack Developer](https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148)
