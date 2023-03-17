@@ -10,7 +10,7 @@ I am a developer who started programming in early 2020 after a two decade career
 * 💻 Node | Express | HTML | CSS | TailwindCSS | Firebase | MongoDB | MySQL | Docker | Truffle | Ganache | Hardhat | Geth
 
 #### Projects:
-  ▶️  🖥️ [Road to Web3 Project: 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/roadtoweb3/allocate) Check out the app: [DefiKids](https://defikids-git-main-nathantarbert.vercel.app/)  </br>
+  ▶️  🖥️ [Road to Web3 Project: 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/roadtoweb3/allocate) Check out the app: [DefiKids](https://defikids-nathantarbert.vercel.app/)  </br>
   
   ▶️  📱 [Mobile NFT Project : 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/nfthack2022/anala-art)
 
