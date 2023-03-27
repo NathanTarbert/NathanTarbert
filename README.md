@@ -1,7 +1,7 @@
 
 #### Hi, I'm Nathan Tarbert. 
 
-I am a developer who started programming in early 2020 after a two decade career in the transportation industry. My passion is Open-Source, Blockchain, Security and Web3.
+I am a someone who loves puzzles! Jumped into programming in early 2020 after a two-decade career in the transportation industry. My passion is Open-Source, Blockchain, Security, and Web3.
 
 #### Technical Skills:
 * 🕶️ Solidity | JavaScript
