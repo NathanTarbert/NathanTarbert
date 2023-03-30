@@ -1,5 +1,12 @@
+<h2 align="left">Hi, I'm Nathan Tarbert</h2>
+<p align="left">
 
-#### Hi, I'm Nathan Tarbert. 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nathan_tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prolajumokeoni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nathan-tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prolajumokeoni" height="30" width="40" /></a>
+<a href="https://instagram.com/nathan_tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prolajumokeoni" height="30" width="40" /></a>
+</p>
 
 I am someone who loves puzzles! <br>
 I jumped into tech and began programming in early 2020 after a two-decade career in the transportation industry. <br>
@@ -15,6 +22,8 @@ My passion is Open-Source, Blockchain, Security, and Web3
   ▶️  🖥️ [Road to Web3 Project: 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/roadtoweb3/allocate) Check out the app: [DefiKids](https://defikids-nathantarbert.vercel.app/)  </br>
   
   ▶️  📱 [Mobile NFT Project : 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/nfthack2022/anala-art)
+  
+#### Blogs - [SBOM Explained...](https://boxyhq.com/blog/sbom-explained-an-enterprise-guide-to-security-risk-management)
 
 #### Work:
 - ✨ [BoxyHQ](https://hoxyhq.com) - Community Success Engineer
@@ -32,7 +41,6 @@ My passion is Open-Source, Blockchain, Security, and Web3
 
 #### 📫 reach me @:
 - Email - nathan@gzerodev.com 
-- Social - [Linkedin](https://linkedin.com/in/nathan-tarbert/) & [Twitter](https://twitter.com/nathan_tarbert)
 
 
 
