@@ -8,7 +8,7 @@
 <a href="https://instagram.com/nathan_tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prolajumokeoni" height="30" width="40" /></a>
 </p>
 
-I am someone who loves puzzles! <br>
+I am someone curious who loves puzzles! <br>
 I jumped into tech and began programming in early 2020 after a two-decade career in the transportation industry. <br>
 My passion is Open-Source, Blockchain, Security, and Web3
 
