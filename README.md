@@ -42,6 +42,13 @@ My passion is Open-Source, Blockchain, Security, and Web3
 #### 📫 reach me @:
 - Email - nathan@gzerodev.com 
 
+ <p align="center">
+  <b>GitHub Visitors</b>
+  <br>
+  <br>
+<img alt="Page counter" src="https://profile-counter.glitch.me/NathanTarbert/count.svg">
+</p>
+
 
 
 
