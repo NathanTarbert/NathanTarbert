@@ -8,9 +8,11 @@
 <a href="https://instagram.com/nathan_tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prolajumokeoni" height="30" width="40" /></a>
 </p>
 
+<p>
 I am someone curious who loves puzzles! <br>
 I jumped into tech and began programming in early 2020 after a two-decade career in the transportation industry. <br>
 My passion is Open-Source, Blockchain, Security, and Web3
+</p>
 
 <a href="http://www.github.com/NathanTarbert"><img src="https://github-readme-stats.vercel.app/api?username=NathanTarbert&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nathan Tarbert's GitHub stats" /></a>
 
