@@ -28,11 +28,15 @@ My passion is Open-Source, Blockchain, Security, and Web3
   ▶️  🖥️ [Road to Web3 Project: 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/roadtoweb3/allocate) Check out the app: [DefiKids](https://defikids-nathantarbert.vercel.app/)  </br>
   
   ▶️  📱 [Mobile NFT Project : 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/nfthack2022/anala-art)
-  
-#### Blogs - [SBOM Explained...](https://boxyhq.com/blog/sbom-explained-an-enterprise-guide-to-security-risk-management)
 
 #### Work:
 - ✨ [BoxyHQ](https://hoxyhq.com) - Community Success Engineer
+- Blogs 
+   - [SBOM Explained...](https://boxyhq.com/blog/sbom-explained-an-enterprise-guide-to-security-risk-management)
+   - [Build Enterprise Software with No-Code Thanks to Bubble.io](https://boxyhq.com/blog/build-enterprise-software-with-no-code-thanks-to-bubble-io)
+- Videos 
+    - [Boost Security: Harness the Benefits of BoxyHQ SSO in under 60 seconds](https://youtube.com/shorts/LjXpmVZz-ww)
+    - [BoxyHQ's SaaS Starter Kit: Your Ultimate Enterprise-Compliant Boilerplate](https://youtu.be/oF8QIwQIhyo)
 - ✨ [Snyk](https://snyk.io) (SaaS) - Community Success Engineer - [My public Snyk Github](https://github.com/NathanTarbertSnyk)
 - ✨ I am a co-founder of <a href="https://defikids-git-main-nathantarbert.vercel.app/">DefiKids<a/>, a global collaberation project that will bring crypto education to the next generation.     <br>(Update) - this project has been put on the back-burner for the time being.</br>
 
