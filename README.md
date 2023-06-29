@@ -34,7 +34,8 @@ My passion is Open-Source, Blockchain, Security, and Web3
 - Blogs 
    - [SBOM Explained...](https://boxyhq.com/blog/sbom-explained-an-enterprise-guide-to-security-risk-management)
    - [Build Enterprise Software with No-Code Thanks to Bubble.io](https://boxyhq.com/blog/build-enterprise-software-with-no-code-thanks-to-bubble-io)
-- Videos 
+- Videos
+    - [Breaking News: BoxyHQ Announces the Release of Their New SaaS Platform](https://www.youtube.com/shorts/-8qlZPCdMec)
     - [Boost Security: Harness the Benefits of BoxyHQ SSO in under 60 seconds](https://youtube.com/shorts/LjXpmVZz-ww)
     - [BoxyHQ's SaaS Starter Kit: Your Ultimate Enterprise-Compliant Boilerplate](https://youtu.be/oF8QIwQIhyo)
 - ✨ [Snyk](https://snyk.io) (SaaS) - Community Success Engineer - [My public Snyk Github](https://github.com/NathanTarbertSnyk)
