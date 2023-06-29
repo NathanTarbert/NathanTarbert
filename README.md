@@ -52,7 +52,7 @@ My passion is Open-Source, Blockchain, Security, and Web3
 - 👯 To help and support as many people/teams/organizations as possible become successful in development and deployment in this wide world of tech. </br> 
 
 #### 📫 reach me @:
-- Email - nathan@gzerodev.com 
+- Email - nate4t@hotmail.com 
 
  <p align="center">
   <b>GitHub Visitors</b>
