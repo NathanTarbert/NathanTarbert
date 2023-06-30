@@ -35,7 +35,6 @@ My passion is Open-Source, Blockchain, Security, and Web3
    - [SBOM Explained...](https://boxyhq.com/blog/sbom-explained-an-enterprise-guide-to-security-risk-management)
    - [Build Enterprise Software with No-Code Thanks to Bubble.io](https://boxyhq.com/blog/build-enterprise-software-with-no-code-thanks-to-bubble-io)
 - Videos (recording and edits done by me)
-    - [Breaking News: BoxyHQ Announces the Release of Their New SaaS Platform](https://www.youtube.com/shorts/-8qlZPCdMec)
     - [Boost Security: Harness the Benefits of BoxyHQ SSO in under 60 seconds](https://youtube.com/shorts/LjXpmVZz-ww)
     - [BoxyHQ's SaaS Starter Kit: Your Ultimate Enterprise-Compliant Boilerplate](https://youtu.be/oF8QIwQIhyo)
     - [Unlocking the Power of Open Source SAML SSO with BoxyHQ's Enterprise SSO Tutorial](https://www.youtube.com/watch?v=nvsD4-GQw4A)
