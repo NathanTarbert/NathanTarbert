@@ -9,7 +9,7 @@
 </p>
 
 <p>
-I am someone curious who loves puzzles! <br>
+I am someone curious, who loves puzzles! <br>
 I jumped into tech and began programming in early 2020 after a two-decade career in the transportation industry. <br>
 My passion is Open-Source, Blockchain, Security, and Web3
 </p>
