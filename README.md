@@ -11,7 +11,8 @@
 <p>
 I am someone curious, who loves puzzles! <br>
 I jumped into tech and began programming in early 2020 after a two-decade career in the transportation industry. <br>
-My passion is Open-Source, Blockchain, Security, and Web3
+My passion is Open-Source, Blockchain, Security, and Web3 <br>
+Oh and I have just taken up writing this year (2023)
 </p>
 
 <a href="http://www.github.com/NathanTarbert"><img src="https://github-readme-stats.vercel.app/api?username=NathanTarbert&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nathan Tarbert's GitHub stats" /></a>
@@ -31,7 +32,8 @@ My passion is Open-Source, Blockchain, Security, and Web3
 
 #### Work:
 - ✨ [BoxyHQ](https://hoxyhq.com) - Community Success Engineer
-- Blogs 
+- Blogs
+   - [🧭 Navigating the Open Source Landscape: ⭐Finding Your First Contribution](https://dev.to/nathan_tarbert/navigating-the-open-source-landscape-finding-your-first-contribution-3fap)
    - [SBOM Explained...](https://boxyhq.com/blog/sbom-explained-an-enterprise-guide-to-security-risk-management)
    - [Build Enterprise Software with No-Code Thanks to Bubble.io](https://boxyhq.com/blog/build-enterprise-software-with-no-code-thanks-to-bubble-io)
 - Videos (recording and edits done by me)
@@ -39,7 +41,7 @@ My passion is Open-Source, Blockchain, Security, and Web3
     - [BoxyHQ's SaaS Starter Kit: Your Ultimate Enterprise-Compliant Boilerplate](https://youtu.be/oF8QIwQIhyo)
     - [Unlocking the Power of Open Source SAML SSO with BoxyHQ's Enterprise SSO Tutorial](https://www.youtube.com/watch?v=nvsD4-GQw4A)
 - ✨ [Snyk](https://snyk.io) (SaaS) - Community Success Engineer - [My public Snyk Github](https://github.com/NathanTarbertSnyk)
-- ✨ I am a co-founder of <a href="https://defikids-git-main-nathantarbert.vercel.app/">DefiKids<a/>, a global collaberation project that will bring crypto education to the next generation.     <br>(Update) - this project has been put on the back-burner for the time being.</br>
+- ✨ I am a co-founder of <a href="https://defikids-git-main-nathantarbert.vercel.app/">DefiKids<a/>, a global collaboration project that will bring crypto education to the next generation.     <br>(Update) - this project has been put on the back burner for now.</br>
 
 #### Education:
 - 🔭 Kingsland University: [Full Stack Developer](https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148)
@@ -48,7 +50,7 @@ My passion is Open-Source, Blockchain, Security, and Web3
 - 🔭 Google: [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/RRU4BWUKT5P6)
 
 #### Goals:
-- 👯 To help and support as many people/teams/organizations as possible become successful in development and deployment in this wide world of tech. </br> 
+- 👯 To help and support as many people/teams/organizations as possible to become successful in development and deployment in this wide world of tech. </br> 
 
 #### 📫 reach me @:
 - Email - nate4t@hotmail.com 
