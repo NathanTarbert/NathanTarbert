@@ -31,7 +31,7 @@ Oh and I have just taken up writing this year (2023)
   ▶️  📱 [Mobile NFT Project : 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/nfthack2022/anala-art)
 
 #### Work:
-- ✨ [BoxyHQ](https://hoxyhq.com) - Community Success Engineer
+- ✨ [BoxyHQ](https://hoxyhq.com) - Community Engineer
 - Blogs
    - [🧭 Navigating the Open Source Landscape: ⭐Finding Your First Contribution](https://dev.to/nathan_tarbert/navigating-the-open-source-landscape-finding-your-first-contribution-3fap)
    - [SBOM Explained...](https://boxyhq.com/blog/sbom-explained-an-enterprise-guide-to-security-risk-management)
