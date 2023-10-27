@@ -25,32 +25,6 @@ Oh and I have just taken up writing this year (2023)
 * 📱 React-Native | Ionic
 * 💻 Node | Express | HTML | CSS | TailwindCSS | Firebase | MongoDB | MySQL | Docker | Truffle | Ganache | Hardhat | Geth
 
-#### Projects:
-  ▶️  🖥️ [Road to Web3 Project: 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/roadtoweb3/allocate) Check out the app: [DefiKids](https://defikids-nathantarbert.vercel.app/)  </br>
-  
-  ▶️  📱 [Mobile NFT Project : 3 Day ETH-Global Hackathon](https://showcase.ethglobal.com/nfthack2022/anala-art)
-
-#### Work:
-- ✨ [BoxyHQ](https://hoxyhq.com) - Community Engineer
-- Blogs
-   - [🧭 Navigating the Open Source Landscape: ⭐Finding Your First Contribution](https://dev.to/nathan_tarbert/navigating-the-open-source-landscape-finding-your-first-contribution-3fap)
-   - [SBOM Explained...](https://boxyhq.com/blog/sbom-explained-an-enterprise-guide-to-security-risk-management)
-   - [Build Enterprise Software with No-Code Thanks to Bubble.io](https://boxyhq.com/blog/build-enterprise-software-with-no-code-thanks-to-bubble-io)
-- Videos (recording and edits done by me)
-    - [Boost Security: Harness the Benefits of BoxyHQ SSO in under 60 seconds](https://youtube.com/shorts/LjXpmVZz-ww)
-    - [BoxyHQ's SaaS Starter Kit: Your Ultimate Enterprise-Compliant Boilerplate](https://youtu.be/oF8QIwQIhyo)
-    - [Unlocking the Power of Open Source SAML SSO with BoxyHQ's Enterprise SSO Tutorial](https://www.youtube.com/watch?v=nvsD4-GQw4A)
-- ✨ [Snyk](https://snyk.io) (SaaS) - Community Success Engineer - [My public Snyk Github](https://github.com/NathanTarbertSnyk)
-- ✨ I am a co-founder of <a href="https://defikids-git-main-nathantarbert.vercel.app/">DefiKids<a/>, a global collaboration project that will bring crypto education to the next generation.     <br>(Update) - this project has been put on the back burner for now.</br>
-
-#### Education:
-- 🔭 Kingsland University: [Full Stack Developer](https://blockchaincertificate-verify.kingsland.io/certificate/608a62457913f53a579a0148)
-- 🔭 Kingsland University: [Solidity Developer](https://blockchaincertificate-verify.kingsland.io/certificate/62fcb6b61918c47cc68be644)
-- 🔭 University of Virginia Darden School of Business: [Fundamentals of Project Planning and Management](https://www.coursera.org/account/accomplishments/certificate/JGQ9ALLJ7XUS)
-- 🔭 Google: [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/RRU4BWUKT5P6)
-
-#### Goals:
-- 👯 To help and support as many people/teams/organizations as possible to become successful in development and deployment in this wide world of tech. </br> 
 
 #### 📫 reach me @:
 - Email - nate4t@hotmail.com 
