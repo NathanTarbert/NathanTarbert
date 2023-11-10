@@ -3,9 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nathan_tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prolajumokeoni" height="25" width="35" /></a>
-<a href="https://www.linkedin.com/in/nathan-tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prolajumokeoni" height="25" width="35" /></a>
-<a href="https://instagram.com/nathan_tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prolajumokeoni" height="25" width="35" /></a>
+<a href="https://dev.to/nathan_tarbert" target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto3.svg" alt="nathantarbert" height="75" width="75" /></a>
+<a href="https://twitter.com/nathan_tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathantarbert" height="25" width="35" /></a>
+<a href="https://www.linkedin.com/in/nathan-tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nathan-tarbert" height="25" width="35" /></a>
+<a href="https://instagram.com/nathan_tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathantarbert" height="25" width="35" /></a>
 </p>
 
 <p>
@@ -26,8 +27,10 @@ Oh and I have just taken up writing this year (2023)
 * 💻 Node | Express | HTML | CSS | TailwindCSS | Firebase | MongoDB | MySQL | Docker | Truffle | Ganache | Hardhat | Geth
 
 
-#### 📫 reach me @:
-- Email - nate4t@hotmail.com 
+#### 📫 reach me @: 
+
+nathan.m.tarbert@gmail.com
+
 
  <p align="center">
   <b>GitHub Visitors</b>
