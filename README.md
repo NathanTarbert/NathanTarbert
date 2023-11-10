@@ -29,7 +29,7 @@ Oh and I have just taken up writing this year (2023)
 
 #### 📫 reach me @: 
 
-nathan.m.tarbert@gmail.com
+`nathan.m.tarbert@gmail.com`
 
 
  <p align="center">
