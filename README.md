@@ -17,7 +17,7 @@
 
 - 🤖 **AI Agents & Copilots** — pushing the boundary of agentic UX with [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 - 🧠 **AG-UI Protocol** — the open standard for agent ↔ UI communication
-- 🌱 **Community** — running the CopilotKit Ambassadors program, hosting devs, and championing builders shipping with agents
+- 🌱 **Community** — leading the CopilotKit & AG-UI communities, championing builders shipping with agents
 - 🎨 **Developer Experience** — making agents that *actually* feel native in your app
 - 🕹️ Side quests: retro gaming, pixel art, and over-engineered weekend hacks
 
