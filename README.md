@@ -1,48 +1,39 @@
-<h2 align="left">Hi, I'm Nathan Tarbert</h2>
-<p align="left">
+<h1 align="center">Hey, I'm Nathan 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/nathan_tarbert" target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto3.svg" alt="nathantarbert" height="75" width="75" /></a>
-<a href="https://twitter.com/nathan_tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathantarbert" height="25" width="35" /></a>
-<a href="https://www.linkedin.com/in/nathan-tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nathan-tarbert" height="25" width="35" /></a>
-<a href="https://instagram.com/nathan_tarbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathantarbert" height="25" width="35" /></a>
+<p align="center">
+  Building in the open at <a href="https://copilotkit.ai">CopilotKit</a> — where agents meet the UI layer.
 </p>
 
-<p>
-I am someone curious, who loves puzzles! <br>
-I dove into tech and began active development in early 2020 after a two-decade career in the transportation industry. <br>
-My passion is Open-Source, Blockchain, Security, and Web3 <br>
+<p align="center">
+  <a href="https://twitter.com/nathan_tarbert"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nathan-tarbert"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/nathan_tarbert"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="mailto:nathan@copilotkit.ai"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<a href="http://www.github.com/NathanTarbert"><img src="https://github-readme-stats.vercel.app/api?username=NathanTarbert&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nathan Tarbert's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/NathanTarbert"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanTarbert&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🛠️ What I'm working on
 
-#### Technical Skills:
-* 🕶️ Solidity | JavaScript
-* ⚛  React, Next.js
-* 📱 React-Native | Ionic
-* 💻 Node | Express | HTML | CSS | TailwindCSS | Firebase | MongoDB | MySQL | Docker | Truffle | Ganache | Hardhat | Geth
+- 🤖 **AI Agents & Copilots** — pushing the boundary of agentic UX with [CopilotKit](https://github.com/CopilotKit/CopilotKit)
+- 🧠 **AG-UI Protocol** — the open standard for agent ↔ UI communication
+- 🎨 **Developer Experience** — making agents that *actually* feel native in your app
+- 🕹️ Side quests: retro gaming, pixel art, and over-engineered weekend hacks
 
+### ⚡ Stack I live in
 
-#### 📫 reach me @: 
+`TypeScript` · `React` · `Next.js` · `Node` · `Python` · `LangChain` · `Mastra` · `Pydantic AI` · `Tailwind`
 
-`nathan.m.tarbert@gmail.com`
+### 📊 Stats
 
-
- <p align="center">
-  <b>GitHub Visitors</b>
-  <br>
-  <br>
-<img alt="Page counter" src="https://profile-counter.glitch.me/NathanTarbert/count.svg">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanTarbert&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="195" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanTarbert&theme=react-dark&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&hide_border=true" />
+</p>
 
+---
 
-
-
-
-
-
-
+<p align="center"><i>"There's a difference between an agent that calls tools and an agent that actually manages its own work."</i></p>
