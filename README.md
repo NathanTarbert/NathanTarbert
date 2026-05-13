@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nathan 👋</h1>
 
 <p align="center">
-  Building in the open at <a href="https://copilotkit.ai">CopilotKit</a> — where agents meet the UI layer.
+  Community & DevRel at <a href="https://copilotkit.ai">CopilotKit</a> — building in the open where agents meet the UI layer.
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
 
 - 🤖 **AI Agents & Copilots** — pushing the boundary of agentic UX with [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 - 🧠 **AG-UI Protocol** — the open standard for agent ↔ UI communication
+- 🌱 **Community** — leading the CopilotKit & AG-UI communities, championing builders shipping with agents
 - 🎨 **Developer Experience** — making agents that *actually* feel native in your app
 - 🕹️ Side quests: retro gaming, pixel art, and over-engineered weekend hacks
 
