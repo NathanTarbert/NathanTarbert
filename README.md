@@ -45,7 +45,7 @@ I help developers ship agents that live inside real products, not just in a chat
 
 ### ⚡ Stack
 
-`TypeScript` · `React` · `Next.js` · `Node` · `Python` · `LangChain` · `Mastra` · `Pydantic AI` · `Tailwind`
+`TypeScript` · `React` ·  `React Native` · `Next.js` · `Node` · `Python` · `LangChain` · `Mastra`  · `Tailwind`
 
 ---
 
