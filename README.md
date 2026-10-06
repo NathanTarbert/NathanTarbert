@@ -2,6 +2,8 @@
   <img src="./assets/face.svg" alt="Portrait of Nathan Tarbert, drawn entirely from the words answerLoops, DevRel, CopilotKit, OpenSource and Community" width="456" />
 </p>
 
+<p align="center"><i>My face tells my story.</i></p>
+
 <h1 align="center">Nathan Tarbert</h1>
 
 <p align="center">
