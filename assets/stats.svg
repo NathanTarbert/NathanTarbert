@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 190" width="990" height="190" role="img" aria-label="GitHub stats for NathanTarbert: 4108 total contributions, 0 day current streak, 26 day longest streak">
-  <rect width="990" height="190" rx="12" fill="#0D1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 280" width="990" height="280" role="img" aria-label="GitHub stats for NathanTarbert: 4109 total contributions, 0 day current streak, 26 day longest streak. Totals: 1886 commits, 1045 pull requests, 250 issues, 202 code reviews, 154 repositories created, 558 private contributions">
+  <rect width="990" height="280" rx="12" fill="#0D1117"/>
   <g font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
-  <text x="165" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#F0F6FC">4,108</text>
+  <text x="165" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#F0F6FC">4,109</text>
   <text x="165" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#F0F6FC">Total Contributions</text>
   <text x="165" y="136" text-anchor="middle" font-size="12" fill="#8B949E">Jun 13, 2020 – Present</text>
   <text x="495" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#E8643C">0</text>
@@ -10,7 +10,20 @@
   <text x="825" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#F0F6FC">26</text>
   <text x="825" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#F0F6FC">Longest Streak</text>
   <text x="825" y="136" text-anchor="middle" font-size="12" fill="#8B949E">Aug 29, 2026 – Sep 23, 2026</text>
+  <text x="82.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">1,886</text>
+  <text x="82.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Commits</text>
+  <text x="247.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">1,045</text>
+  <text x="247.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Pull Requests</text>
+  <text x="412.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">250</text>
+  <text x="412.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Issues</text>
+  <text x="577.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">202</text>
+  <text x="577.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Code Reviews</text>
+  <text x="742.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">154</text>
+  <text x="742.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Repos Created</text>
+  <text x="907.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">558</text>
+  <text x="907.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Private</text>
   </g>
   <line x1="330" y1="40" x2="330" y2="150" stroke="#30363D"/>
   <line x1="660" y1="40" x2="660" y2="150" stroke="#30363D"/>
+  <line x1="40" y1="176" x2="950" y2="176" stroke="#30363D"/>
 </svg>
