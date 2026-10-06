@@ -22,7 +22,7 @@
 Every community asks the same questions every week, and the answers are already in the docs. **[answerLoops](https://answerloops.com)** puts that knowledge to work where people actually ask: it drafts source-backed replies, has a second AI check them, and hands them to your team to approve. Useful resolutions turn back into knowledge, so the loop gets better every time.
 
 - 💬 Works in Discord, Slack, Discourse, Circle, GitHub, Telegram, email, and website chat
-- 🔓 Open source: self-host it with your own model, or use the [hosted app](https://app.answerloops.com)
+- 🔓 Open source: self-host it with your own model, or use the [hosted app](https://github.com/answerLoops/answerLoops)
 - 🤖 Connect your own agents over MCP, REST, or the [TypeScript SDK](https://www.npmjs.com/package/@answerloops/agent-sdk)
 
 → [Repo](https://github.com/answerLoops/answerLoops) · [Docs](https://answerloops.com/docs)
