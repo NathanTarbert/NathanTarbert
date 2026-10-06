@@ -50,7 +50,7 @@ I help developers ship agents that live inside real products, not just in a chat
 ---
 
 <p align="center">
-  <a href="https://github.com/NathanTarbert?tab=repositories"><img src="https://streak-stats.demolab.com/?user=NathanTarbert&theme=dark&background=0D1117&ring=E8643C&fire=E8643C&currStreakLabel=E8643C&hide_border=true" alt="GitHub streak stats" height="170" /></a>
+  <a href="https://github.com/NathanTarbert?tab=repositories"><img src="./assets/stats.svg" alt="GitHub contribution stats" width="720" /></a>
 </p>
 
 <p align="center"><i>Questions are a gift. Answer them once, then let the loop do the rest.</i></p>
