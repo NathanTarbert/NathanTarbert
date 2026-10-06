@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/face.svg" alt="Portrait of Nathan Tarbert, drawn entirely from the words answerLoops, DevRel, CopilotKit, OpenSource and Community" width="380" />
+  <img src="./assets/face.svg" alt="Portrait of Nathan Tarbert, drawn entirely from the words answerLoops, DevRel, CopilotKit, OpenSource and Community" width="456" />
 </p>
 
 <h1 align="center">Nathan Tarbert</h1>
