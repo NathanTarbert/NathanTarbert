@@ -48,7 +48,7 @@ I help developers ship agents that live inside real products, not just in a chat
 ---
 
 <p align="center">
-  <a href="https://github.com/NathanTarbert?tab=repositories"><img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanTarbert&theme=react-dark&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&hide_border=true" alt="GitHub activity graph" /></a>
+  <a href="https://github.com/NathanTarbert?tab=repositories"><img src="https://streak-stats.demolab.com/?user=NathanTarbert&theme=dark&background=0D1117&ring=E8643C&fire=E8643C&currStreakLabel=E8643C&hide_border=true" alt="GitHub streak stats" height="170" /></a>
 </p>
 
 <p align="center"><i>Questions are a gift. Answer them once, then let the loop do the rest.</i></p>
