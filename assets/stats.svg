@@ -1,27 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 280" width="990" height="280" role="img" aria-label="GitHub stats for NathanTarbert: 4109 total contributions, 0 day current streak, 26 day longest streak. Totals: 1886 commits, 1045 pull requests, 250 issues, 202 code reviews, 154 repositories created, 558 private contributions">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 280" width="990" height="280" role="img" aria-label="GitHub stats for NathanTarbert: 4114 total contributions, 0 day current streak, 26 day longest streak. Totals: 1891 commits, 1045 pull requests, 250 issues, 202 code reviews, 154 repositories created, 558 private contributions">
+  <defs>
+    <style>
+      .v { animation: drop 9s cubic-bezier(.2,.8,.2,1) infinite backwards; }
+      .s { animation-name: pour; animation-timing-function: linear; animation-iteration-count: infinite; transform: translateY(-200px); }
+      @keyframes drop {
+        0% { opacity: 0; transform: translateY(-34px); }
+        7% { opacity: 1; transform: translateY(3px); }
+        10% { transform: translateY(0); }
+        88% { opacity: 1; transform: translateY(0); }
+        96%, 100% { opacity: 0; transform: translateY(26px); }
+      }
+      @keyframes pour { from { transform: translateY(-200px); } to { transform: translateY(290px); } }
+      @media (prefers-reduced-motion: reduce) { .v, .s { animation: none; } .s { display: none; } }
+    </style>
+    <linearGradient id="drip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#7dd3fc" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="990" height="280" rx="12"/></clipPath>
+  </defs>
   <rect width="990" height="280" rx="12" fill="#0D1117"/>
+  <g clip-path="url(#card)">
+    <rect class="s" x="20.1" y="0" width="1.6" height="151" fill="url(#drip)" opacity="0.59" style="animation-duration:3.24s;animation-delay:-1.05s"/>
+    <rect class="s" x="332.8" y="0" width="1.6" height="133" fill="url(#drip)" opacity="0.57" style="animation-duration:4.92s;animation-delay:-2.71s"/>
+    <rect class="s" x="795.9" y="0" width="2.4" height="77" fill="url(#drip)" opacity="0.58" style="animation-duration:3.55s;animation-delay:-3.54s"/>
+    <rect class="s" x="669.7" y="0" width="1.6" height="101" fill="url(#drip)" opacity="0.35" style="animation-duration:5.52s;animation-delay:-4.04s"/>
+    <rect class="s" x="897.0" y="0" width="1.6" height="126" fill="url(#drip)" opacity="0.66" style="animation-duration:4.52s;animation-delay:-2.89s"/>
+    <rect class="s" x="373.6" y="0" width="2.4" height="87" fill="url(#drip)" opacity="0.36" style="animation-duration:5.21s;animation-delay:-1.66s"/>
+    <rect class="s" x="427.0" y="0" width="1.6" height="82" fill="url(#drip)" opacity="0.59" style="animation-duration:5.57s;animation-delay:-2.79s"/>
+    <rect class="s" x="75.7" y="0" width="2.4" height="80" fill="url(#drip)" opacity="0.47" style="animation-duration:4.22s;animation-delay:-2.54s"/>
+    <rect class="s" x="883.5" y="0" width="1.6" height="56" fill="url(#drip)" opacity="0.57" style="animation-duration:3.52s;animation-delay:-1.72s"/>
+    <rect class="s" x="509.1" y="0" width="1.6" height="68" fill="url(#drip)" opacity="0.45" style="animation-duration:3.66s;animation-delay:-1.42s"/>
+    <rect class="s" x="335.9" y="0" width="1.6" height="108" fill="url(#drip)" opacity="0.66" style="animation-duration:4.41s;animation-delay:-1.17s"/>
+    <rect class="s" x="839.9" y="0" width="1.6" height="120" fill="url(#drip)" opacity="0.50" style="animation-duration:4.48s;animation-delay:-2.58s"/>
+    <rect class="s" x="912.6" y="0" width="1.6" height="94" fill="url(#drip)" opacity="0.53" style="animation-duration:4.75s;animation-delay:-1.26s"/>
+    <rect class="s" x="334.1" y="0" width="1.6" height="93" fill="url(#drip)" opacity="0.34" style="animation-duration:5.06s;animation-delay:-4.39s"/>
+    <rect class="s" x="93.8" y="0" width="2.4" height="95" fill="url(#drip)" opacity="0.70" style="animation-duration:2.75s;animation-delay:-0.39s"/>
+    <rect class="s" x="620.7" y="0" width="1.6" height="66" fill="url(#drip)" opacity="0.36" style="animation-duration:3.85s;animation-delay:-2.96s"/>
+    <rect class="s" x="860.3" y="0" width="2.4" height="148" fill="url(#drip)" opacity="0.60" style="animation-duration:5.39s;animation-delay:-4.54s"/>
+    <rect class="s" x="30.0" y="0" width="2.4" height="77" fill="url(#drip)" opacity="0.55" style="animation-duration:2.47s;animation-delay:-0.01s"/>
+    <rect class="s" x="724.1" y="0" width="2.4" height="104" fill="url(#drip)" opacity="0.65" style="animation-duration:4.68s;animation-delay:-1.19s"/>
+    <rect class="s" x="375.2" y="0" width="1.6" height="148" fill="url(#drip)" opacity="0.30" style="animation-duration:2.63s;animation-delay:-2.45s"/>
+    <rect class="s" x="625.1" y="0" width="1.6" height="151" fill="url(#drip)" opacity="0.38" style="animation-duration:2.28s;animation-delay:-4.50s"/>
+    <rect class="s" x="557.0" y="0" width="1.6" height="125" fill="url(#drip)" opacity="0.38" style="animation-duration:3.16s;animation-delay:-1.11s"/>
+    <rect class="s" x="69.7" y="0" width="2.4" height="135" fill="url(#drip)" opacity="0.50" style="animation-duration:4.72s;animation-delay:-3.57s"/>
+    <rect class="s" x="124.8" y="0" width="2.4" height="151" fill="url(#drip)" opacity="0.66" style="animation-duration:2.67s;animation-delay:-3.44s"/>
+    <rect class="s" x="859.0" y="0" width="1.6" height="145" fill="url(#drip)" opacity="0.61" style="animation-duration:5.77s;animation-delay:-4.77s"/>
+    <rect class="s" x="255.8" y="0" width="1.6" height="130" fill="url(#drip)" opacity="0.39" style="animation-duration:5.38s;animation-delay:-1.99s"/>
+    <rect class="s" x="862.6" y="0" width="2.4" height="111" fill="url(#drip)" opacity="0.59" style="animation-duration:3.47s;animation-delay:-3.11s"/>
+    <rect class="s" x="708.9" y="0" width="1.6" height="97" fill="url(#drip)" opacity="0.69" style="animation-duration:2.92s;animation-delay:-1.56s"/>
+    <rect class="s" x="620.8" y="0" width="2.4" height="146" fill="url(#drip)" opacity="0.56" style="animation-duration:5.51s;animation-delay:-1.00s"/>
+    <rect class="s" x="492.6" y="0" width="2.4" height="111" fill="url(#drip)" opacity="0.49" style="animation-duration:4.98s;animation-delay:-4.73s"/>
+    <rect class="s" x="444.3" y="0" width="1.6" height="68" fill="url(#drip)" opacity="0.52" style="animation-duration:4.59s;animation-delay:-2.61s"/>
+    <rect class="s" x="739.3" y="0" width="1.6" height="90" fill="url(#drip)" opacity="0.42" style="animation-duration:4.90s;animation-delay:-0.13s"/>
+    <rect class="s" x="212.6" y="0" width="1.6" height="130" fill="url(#drip)" opacity="0.56" style="animation-duration:3.25s;animation-delay:-1.18s"/>
+    <rect class="s" x="91.5" y="0" width="1.6" height="135" fill="url(#drip)" opacity="0.66" style="animation-duration:5.16s;animation-delay:-4.58s"/>
+    <rect class="s" x="930.9" y="0" width="1.6" height="53" fill="url(#drip)" opacity="0.59" style="animation-duration:4.94s;animation-delay:-3.01s"/>
+    <rect class="s" x="55.2" y="0" width="2.4" height="65" fill="url(#drip)" opacity="0.33" style="animation-duration:2.49s;animation-delay:-0.54s"/>
+    <rect class="s" x="594.8" y="0" width="1.6" height="154" fill="url(#drip)" opacity="0.38" style="animation-duration:2.89s;animation-delay:-0.67s"/>
+    <rect class="s" x="251.1" y="0" width="1.6" height="100" fill="url(#drip)" opacity="0.57" style="animation-duration:5.78s;animation-delay:-2.11s"/>
+    <rect class="s" x="397.0" y="0" width="1.6" height="96" fill="url(#drip)" opacity="0.62" style="animation-duration:2.42s;animation-delay:-1.15s"/>
+    <rect class="s" x="164.8" y="0" width="1.6" height="152" fill="url(#drip)" opacity="0.38" style="animation-duration:4.03s;animation-delay:-0.61s"/>
+    <rect class="s" x="182.0" y="0" width="1.6" height="59" fill="url(#drip)" opacity="0.52" style="animation-duration:3.18s;animation-delay:-3.23s"/>
+    <rect class="s" x="964.1" y="0" width="2.4" height="58" fill="url(#drip)" opacity="0.30" style="animation-duration:3.69s;animation-delay:-1.57s"/>
+    <rect class="s" x="412.8" y="0" width="1.6" height="60" fill="url(#drip)" opacity="0.61" style="animation-duration:3.04s;animation-delay:-4.62s"/>
+    <rect class="s" x="435.0" y="0" width="1.6" height="144" fill="url(#drip)" opacity="0.56" style="animation-duration:5.66s;animation-delay:-4.00s"/>
+    <rect class="s" x="350.6" y="0" width="1.6" height="95" fill="url(#drip)" opacity="0.53" style="animation-duration:3.99s;animation-delay:-2.47s"/>
+    <rect class="s" x="651.9" y="0" width="1.6" height="120" fill="url(#drip)" opacity="0.64" style="animation-duration:4.82s;animation-delay:-4.42s"/>
+  </g>
   <g font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
-  <text x="165" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#F0F6FC">4,109</text>
-  <text x="165" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#F0F6FC">Total Contributions</text>
-  <text x="165" y="136" text-anchor="middle" font-size="12" fill="#8B949E">Jun 13, 2020 – Present</text>
-  <text x="495" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#E8643C">0</text>
-  <text x="495" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#E8643C">Current Streak</text>
-  <text x="495" y="136" text-anchor="middle" font-size="12" fill="#8B949E">No active streak</text>
-  <text x="825" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#F0F6FC">26</text>
-  <text x="825" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#F0F6FC">Longest Streak</text>
-  <text x="825" y="136" text-anchor="middle" font-size="12" fill="#8B949E">Aug 29, 2026 – Sep 23, 2026</text>
-  <text x="82.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">1,886</text>
-  <text x="82.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Commits</text>
-  <text x="247.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">1,045</text>
-  <text x="247.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Pull Requests</text>
-  <text x="412.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">250</text>
-  <text x="412.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Issues</text>
-  <text x="577.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">202</text>
-  <text x="577.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Code Reviews</text>
-  <text x="742.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">154</text>
-  <text x="742.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Repos Created</text>
-  <text x="907.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">558</text>
-  <text x="907.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Private</text>
+  <text class="v" style="animation-delay:0.00s" x="165" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#F0F6FC">4,114</text>
+  <text class="v" style="animation-delay:0.16s" x="165" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#F0F6FC">Total Contributions</text>
+  <text class="v" style="animation-delay:0.32s" x="165" y="136" text-anchor="middle" font-size="12" fill="#8B949E">Jun 13, 2020 – Present</text>
+  <text class="v" style="animation-delay:0.48s" x="495" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#E8643C">0</text>
+  <text class="v" style="animation-delay:0.64s" x="495" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#E8643C">Current Streak</text>
+  <text class="v" style="animation-delay:0.80s" x="495" y="136" text-anchor="middle" font-size="12" fill="#8B949E">No active streak</text>
+  <text class="v" style="animation-delay:0.96s" x="825" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#F0F6FC">26</text>
+  <text class="v" style="animation-delay:1.12s" x="825" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#F0F6FC">Longest Streak</text>
+  <text class="v" style="animation-delay:1.28s" x="825" y="136" text-anchor="middle" font-size="12" fill="#8B949E">Aug 29, 2026 – Sep 23, 2026</text>
+  <text class="v" style="animation-delay:1.50s" x="82.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">1,891</text>
+  <text class="v" style="animation-delay:1.62s" x="82.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Commits</text>
+  <text class="v" style="animation-delay:1.70s" x="247.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">1,045</text>
+  <text class="v" style="animation-delay:1.82s" x="247.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Pull Requests</text>
+  <text class="v" style="animation-delay:1.90s" x="412.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">250</text>
+  <text class="v" style="animation-delay:2.02s" x="412.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Issues</text>
+  <text class="v" style="animation-delay:2.10s" x="577.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">202</text>
+  <text class="v" style="animation-delay:2.22s" x="577.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Code Reviews</text>
+  <text class="v" style="animation-delay:2.30s" x="742.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">154</text>
+  <text class="v" style="animation-delay:2.42s" x="742.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Repos Created</text>
+  <text class="v" style="animation-delay:2.50s" x="907.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">558</text>
+  <text class="v" style="animation-delay:2.62s" x="907.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Private</text>
   </g>
   <line x1="330" y1="40" x2="330" y2="150" stroke="#30363D"/>
   <line x1="660" y1="40" x2="660" y2="150" stroke="#30363D"/>

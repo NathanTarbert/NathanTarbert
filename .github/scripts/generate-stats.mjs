@@ -74,6 +74,8 @@ const fmtDay = (iso) =>
 const range = (r) => (r.len ? `${fmtDay(r.start)} – ${fmtDay(r.end)}` : "No active streak");
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
 
+let cascade = 0; // each text node drops in a beat after the previous one
+const fall = () => `class="v" style="animation-delay:${(cascade++ * 0.16).toFixed(2)}s"`;
 const cols = [
   { x: 165, value: total.toLocaleString("en-US"), label: "Total Contributions", sub: `${fmtDay(firstActive)} – Present`, accent: false },
   { x: 495, value: `${current.len}`, label: "Current Streak", sub: range(current), accent: true },
@@ -90,21 +92,56 @@ const breakdown = [
 ];
 const row2 = breakdown
   .map(
-    ([label, n], i) => `  <text x="${82.5 + i * 165}" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">${fmt(n)}</text>
-  <text x="${82.5 + i * 165}" y="254" text-anchor="middle" font-size="12" fill="#8B949E">${esc(label)}</text>`,
+    ([label, n], i) => `  <text class="v" style="animation-delay:${(1.5 + i * 0.2).toFixed(2)}s" x="${82.5 + i * 165}" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">${fmt(n)}</text>
+  <text class="v" style="animation-delay:${(1.62 + i * 0.2).toFixed(2)}s" x="${82.5 + i * 165}" y="254" text-anchor="middle" font-size="12" fill="#8B949E">${esc(label)}</text>`,
   )
   .join("\n");
 const font = "ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif";
 const body = cols
   .map(
-    (c) => `  <text x="${c.x}" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="${c.accent ? "#E8643C" : "#F0F6FC"}">${esc(c.value)}</text>
-  <text x="${c.x}" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="${c.accent ? "#E8643C" : "#F0F6FC"}">${esc(c.label)}</text>
-  <text x="${c.x}" y="136" text-anchor="middle" font-size="12" fill="#8B949E">${esc(c.sub)}</text>`,
+    (c) => `  <text ${fall()} x="${c.x}" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="${c.accent ? "#E8643C" : "#F0F6FC"}">${esc(c.value)}</text>
+  <text ${fall()} x="${c.x}" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="${c.accent ? "#E8643C" : "#F0F6FC"}">${esc(c.label)}</text>
+  <text ${fall()} x="${c.x}" y="136" text-anchor="middle" font-size="12" fill="#8B949E">${esc(c.sub)}</text>`,
   )
   .join("\n");
 
+// Deterministic pseudo-random so the file only changes when the numbers do.
+let seed = 7;
+const rnd = () => ((seed = (seed * 16807) % 2147483647) / 2147483647);
+const streaks = Array.from({ length: 46 }, () => {
+  const x = (20 + rnd() * 950).toFixed(1);
+  const h = Math.round(50 + rnd() * 110);
+  const dur = (2.2 + rnd() * 3.6).toFixed(2);
+  const delay = (-rnd() * 5).toFixed(2);
+  const o = (0.3 + rnd() * 0.4).toFixed(2);
+  return `<rect class="s" x="${x}" y="0" width="${rnd() < 0.35 ? 2.4 : 1.6}" height="${h}" fill="url(#drip)" opacity="${o}" style="animation-duration:${dur}s;animation-delay:${delay}s"/>`;
+}).join("\n    ");
+
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 280" width="990" height="280" role="img" aria-label="GitHub stats for ${esc(login)}: ${esc(total)} total contributions, ${current.len} day current streak, ${longest.len} day longest streak. Totals: ${totals.commits} commits, ${totals.prs} pull requests, ${totals.issues} issues, ${totals.reviews} code reviews, ${totals.repos} repositories created, ${totals.private} private contributions">
+  <defs>
+    <style>
+      .v { animation: drop 9s cubic-bezier(.2,.8,.2,1) infinite backwards; }
+      .s { animation-name: pour; animation-timing-function: linear; animation-iteration-count: infinite; transform: translateY(-200px); }
+      @keyframes drop {
+        0% { opacity: 0; transform: translateY(-34px); }
+        7% { opacity: 1; transform: translateY(3px); }
+        10% { transform: translateY(0); }
+        88% { opacity: 1; transform: translateY(0); }
+        96%, 100% { opacity: 0; transform: translateY(26px); }
+      }
+      @keyframes pour { from { transform: translateY(-200px); } to { transform: translateY(290px); } }
+      @media (prefers-reduced-motion: reduce) { .v, .s { animation: none; } .s { display: none; } }
+    </style>
+    <linearGradient id="drip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#7dd3fc" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="990" height="280" rx="12"/></clipPath>
+  </defs>
   <rect width="990" height="280" rx="12" fill="#0D1117"/>
+  <g clip-path="url(#card)">
+    ${streaks}
+  </g>
   <g font-family="${font}">
 ${body}
 ${row2}
