@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 280" width="990" height="280" role="img" aria-label="GitHub stats for NathanTarbert: 4149 total contributions, 0 day current streak, 26 day longest streak. Totals: 1908 commits, 1056 pull requests, 256 issues, 202 code reviews, 154 repositories created, 559 private contributions">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 280" width="990" height="280" role="img" aria-label="GitHub stats for NathanTarbert: 4176 total contributions, 11 day current streak, 26 day longest streak. Totals: 1912 commits, 1061 pull requests, 256 issues, 209 code reviews, 154 repositories created, 570 private contributions">
   <defs>
     <style>
       .v { animation: drop 9s cubic-bezier(.2,.8,.2,1) infinite backwards; }
@@ -69,26 +69,26 @@
     <rect class="s" x="651.9" y="0" width="1.6" height="120" fill="url(#drip)" opacity="0.64" style="animation-duration:4.82s;animation-delay:-4.42s"/>
   </g>
   <g font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
-  <text class="v" style="animation-delay:0.00s" x="165" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#F0F6FC">4,149</text>
+  <text class="v" style="animation-delay:0.00s" x="165" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#F0F6FC">4,176</text>
   <text class="v" style="animation-delay:0.16s" x="165" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#F0F6FC">Total Contributions</text>
   <text class="v" style="animation-delay:0.32s" x="165" y="136" text-anchor="middle" font-size="12" fill="#8B949E">Jun 13, 2020 – Present</text>
-  <text class="v" style="animation-delay:0.48s" x="495" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#E8643C">0</text>
+  <text class="v" style="animation-delay:0.48s" x="495" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#E8643C">11</text>
   <text class="v" style="animation-delay:0.64s" x="495" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#E8643C">Current Streak</text>
-  <text class="v" style="animation-delay:0.80s" x="495" y="136" text-anchor="middle" font-size="12" fill="#8B949E">No active streak</text>
+  <text class="v" style="animation-delay:0.80s" x="495" y="136" text-anchor="middle" font-size="12" fill="#8B949E">Sep 28, 2026 – Oct 8, 2026</text>
   <text class="v" style="animation-delay:0.96s" x="825" y="78" text-anchor="middle" font-size="40" font-weight="700" fill="#F0F6FC">26</text>
   <text class="v" style="animation-delay:1.12s" x="825" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#F0F6FC">Longest Streak</text>
   <text class="v" style="animation-delay:1.28s" x="825" y="136" text-anchor="middle" font-size="12" fill="#8B949E">Aug 29, 2026 – Sep 23, 2026</text>
-  <text class="v" style="animation-delay:1.50s" x="82.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">1,908</text>
+  <text class="v" style="animation-delay:1.50s" x="82.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">1,912</text>
   <text class="v" style="animation-delay:1.62s" x="82.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Commits</text>
-  <text class="v" style="animation-delay:1.70s" x="247.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">1,056</text>
+  <text class="v" style="animation-delay:1.70s" x="247.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">1,061</text>
   <text class="v" style="animation-delay:1.82s" x="247.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Pull Requests</text>
   <text class="v" style="animation-delay:1.90s" x="412.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">256</text>
   <text class="v" style="animation-delay:2.02s" x="412.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Issues</text>
-  <text class="v" style="animation-delay:2.10s" x="577.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">202</text>
+  <text class="v" style="animation-delay:2.10s" x="577.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">209</text>
   <text class="v" style="animation-delay:2.22s" x="577.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Code Reviews</text>
   <text class="v" style="animation-delay:2.30s" x="742.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">154</text>
   <text class="v" style="animation-delay:2.42s" x="742.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Repos Created</text>
-  <text class="v" style="animation-delay:2.50s" x="907.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">559</text>
+  <text class="v" style="animation-delay:2.50s" x="907.5" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#F0F6FC">570</text>
   <text class="v" style="animation-delay:2.62s" x="907.5" y="254" text-anchor="middle" font-size="12" fill="#8B949E">Private</text>
   </g>
   <line x1="330" y1="40" x2="330" y2="150" stroke="#30363D"/>
