@@ -7,7 +7,7 @@
 <h1 align="center">Nathan 🔸 Tarbert</h1>
 
 <p align="center">
-  <strong>Building <a href="https://answerloops.com">answerLoops</a></strong> · DevRel at <a href="https://copilotkit.ai">CopilotKit</a> · Leading open-source communities
+  <strong>Building <a href="https://answerloops.com">answerLoops</a>in public</strong> · DevRel at <a href="https://copilotkit.ai">CopilotKit</a> · Leading open-source communities
 </p>
 
 <p align="center">
